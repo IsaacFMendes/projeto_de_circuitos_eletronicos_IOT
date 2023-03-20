@@ -8,7 +8,7 @@ Repositório notebook baseado no Projeto de Circuitos Eletrônicos - IoT
   <img src=https://img.freepik.com/vetores-gratis/ilustracao-de-jardim-inteligente-automatizado_1284-61608.jpg?w=826&t=st=1679348835~exp=1679349435~hmac=2dccc3c6d80c6e244f9eaae31e4700e15071bbb81bdfda6ed81687890ffecdf5"height=400px >
 </p>
 
-## Projeto Airbnb Cingapura
+## projeto de circuitos eletronicos IOT
 
 Neste projeto, simulando uma estufa de hortaliças, deve ser desenvolvido no simulador TinkerCad (https://www.tinkercad.com/) um circuito eletrônico envolvendo um sensor de temperatura, uma buzina, um LED e um motor, controlados por meio de um Arduino. O projeto deve seguir a seguinte funcionalidade:
 
